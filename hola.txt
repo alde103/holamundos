@@ -1,2 +1,6 @@
-holas,r
+<<<<<<< HEAD
+holar,r
 
+=======
+holar
+>>>>>>> master
